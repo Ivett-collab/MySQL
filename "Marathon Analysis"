@@ -1,4 +1,4 @@
-#
+#This analysis utilized the following marathon dataset:
 
 CREATE TABLE marathon (
     ID INTEGER PRIMARY KEY,
